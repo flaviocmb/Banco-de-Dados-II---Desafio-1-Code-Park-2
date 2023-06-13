@@ -22,4 +22,6 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 
 ### Imagem de um banco de dados real
 
+O objetivo da trigger é emitir um aviso quando uma nova linha for inserida na tabela.
+
 ![Imagem de um banco de dados real](./img/Banco%20de%20dados%20real.png)
