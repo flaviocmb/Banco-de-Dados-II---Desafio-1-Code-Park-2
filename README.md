@@ -19,3 +19,7 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 ![Resolução05](./img/5.png)
 
 ![Resolução06](./img/6.png)
+
+### Imagem de um banco de dados real
+
+![Imagem de um banco de dados real](./img/Banco%20de%20dados%20real.png)

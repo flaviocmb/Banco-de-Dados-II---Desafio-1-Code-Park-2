@@ -47,3 +47,6 @@ CREATE TRIGGER trigger_mostrar_mensagem
 AFTER INSERT ON pedidos
 FOR EACH ROW
 EXECUTE FUNCTION mostrar_mensagem();
+
+INSERT INTO pedidos (valor, data_pedido, fk_id_cliente) VALUES
+(200.00, '2023-06-13 23:30:00', 4);
